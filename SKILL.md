@@ -3,8 +3,8 @@ name: present-moment-return
 description: When lost in past regret or future anxiety, guide return to present experience.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - present-moment-return
 - transformation
