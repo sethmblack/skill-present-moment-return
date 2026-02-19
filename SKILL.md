@@ -4,7 +4,7 @@ description: Guide return from temporal displacement - when the mind is trapped 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4732
+  version: 1.0.4733
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - present-moment-return
